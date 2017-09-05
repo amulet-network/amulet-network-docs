@@ -10,9 +10,11 @@ copyright: 'Copyright &copy; 2017 Amulet R&D'
 
 # Documentation and theme
 theme: 'material'
-theme_dir: 'amulet-theme'
 
 site_favicon: 'images/favicon.ico'
+
+pages:
+    - Home: index.md
 
 # Options
 extra:
